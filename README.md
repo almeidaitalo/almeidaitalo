@@ -1,13 +1,12 @@
-## Olá eu sou ítalo 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3342FF&height=120&section=header"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
- 
- <div align="center">
-  <a href="https://github.com/almeidaitalo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeidaitalo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidaitalo&layout=compact&langs_count=7&theme=dracula"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2B41F5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Almeida+Ítalo;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Information;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=almeidaitalo&show_icons=true&count_private=true&hide_border=true&title_color=2B41F5&icon_color=2B41F5&text_color=c9d1d9&bg_color=0d1117" alt="Almeida Ítalo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidaitalo&layout=compact&hide_border=true&title_color=2B41F5&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="It-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="It-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,4 +28,10 @@
   <a href = "mailto:italoalmeida733@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/almeida-italo-mattos-santos-37381a232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{almeidaitalo}/count.svg" /></p> 
+<br>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3342FF&height=120&section=footer"/>
