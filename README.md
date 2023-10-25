@@ -24,7 +24,6 @@
   <a href="https://www.linkedin.com/in/almeida-italo-mattos-santos-37381a232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 <div align="center">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{almeidaitalo}/count.svg" /></p> 
 <br>
 </div>
 
